@@ -2,7 +2,30 @@
 
 **AI-powered Web3 development toolkit for building scalable, secure, and intelligent decentralized applications.**
 
+---### Owner Avatar for `LikhonAI/likhonai.github.io`  
+Based on the provided knowledge base, the **owner avatar** (profile picture) for this repository is not explicitly shown in the GitHub content. However, we can infer the following:  
+
+1. **Telegram Contact**: The project is linked to **Lillian Ngcobo** (`@likhonai`) via Telegram.  
+   - Telegram avatar (if public): Likely associated with the user `@likhonai`.  
+
+2. **Website Avatar**: The [likhon.org](https://likhon.org) homepage includes an illustration labeled "avatar-1.png":  
+   - Avatar URL:  
+     ```  
+     https://likhon.org/wp-content/themes/poe/assets/images/illustrations/avatar-1.png  
+     ```  
+   - This may represent the team or founder (Lillian Ngcobo).  
+
+3. **GitHub Profile**: The repository owner is listed as **likhonsdev** in the file history, but no explicit avatar is provided in the knowledge base.  
+
 ---
+
+### Recommendation  
+If you need to display an avatar for this repository:  
+- Use the **website avatar** from [likhon.org](https://likhon.org):  
+  ![Avatar](https://likhon.org/wp-content/themes/poe/assets/images/illustrations/avatar-1.png)  
+- Alternatively, use the **GitHub default avatar** for the user `likhonsdev` (if publicly accessible).  
+
+Let me know if you'd like help generating a placeholder or linking to the correct asset! 🎨
 
 ## Overview
 
