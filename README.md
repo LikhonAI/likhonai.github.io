@@ -1,4 +1,4 @@
-# likhonai.github.io # LikhonAI
+# LikhonAI
 
 **AI-powered Web3 development toolkit for building scalable, secure, and intelligent decentralized applications.**
 
