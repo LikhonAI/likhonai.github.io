@@ -1,53 +1,57 @@
-# LikhonAI
+# LikhonAI  
 
-**AI-powered Web3 development toolkit for building scalable, secure, and intelligent decentralized applications.**
-
----### Owner Avatar for `LikhonAI/likhonai.github.io`  
-Based on the provided knowledge base, the **owner avatar** (profile picture) for this repository is not explicitly shown in the GitHub content. However, we can infer the following:  
-
-1. **Telegram Contact**: The project is linked to **Lillian Ngcobo** (`@likhonai`) via Telegram.  
-   - Telegram avatar (if public): Likely associated with the user `@likhonai`.  
-
-2. **Website Avatar**: The [likhon.org](https://likhon.org) homepage includes an illustration labeled "avatar-1.png":  
-   - Avatar URL:  
-     ```  
-     https://likhon.org/wp-content/themes/poe/assets/images/illustrations/avatar-1.png  
-     ```  
-   - This may represent the team or founder (Lillian Ngcobo).  
-
-3. **GitHub Profile**: The repository owner is listed as **likhonsdev** in the file history, but no explicit avatar is provided in the knowledge base.  
+**AI-powered Web3 development toolkit for building scalable, secure, and intelligent decentralized applications.**  
 
 ---
 
-### Recommendation  
-If you need to display an avatar for this repository:  
-- Use the **website avatar** from [likhon.org](https://likhon.org):  
-  ![Avatar](https://likhon.org/wp-content/themes/poe/assets/images/illustrations/avatar-1.png)  
-- Alternatively, use the **GitHub default avatar** for the user `likhonsdev` (if publicly accessible).  
+## 🖼️ **Owner Avatar for `LikhonAI/likhonai.github.io`**  
+Based on the provided knowledge:  
 
-Let me know if you'd like help generating a placeholder or linking to the correct asset! 🎨
+1. **Telegram Profile**:  
+   - The project is linked to **Lillian Ngcobo** (`@likhonai`) via Telegram.  
+   - If public, her Telegram avatar would represent her personal profile.  
 
-## Overview
+2. **Website Avatar**:  
+   - The [likhon.org](https://likhon.org) homepage uses an avatar illustration labeled `"avatar-1.png"`:  
+     ![Avatar](https://likhon.org/wp-content/themes/poe/assets/images/illustrations/avatar-1.png)  
+   - This may symbolize the team or founder (Lillian Ngcobo), though it’s an abstract illustration rather than a photo.  
 
-**LikhonAI** combines cutting-edge AI models with modern decentralized architecture to provide developers with powerful tools for building the next generation of dApps. With a focus on scalability, security, and modular extensibility, LikhonAI helps you ship faster, audit safer, and scale smarter.
-
-Whether you're building smart contracts, designing cross-chain interactions, or deploying full-stack Web3 apps—LikhonAI delivers a cohesive, AI-assisted experience tailored to your workflow.
-
----
-
-## Live Demo & Website
-
-- **Official Site:** [https://likhon.org](https://likhon.org)
-- **Community Channel:** [https://t.me/likhonai](https://t.me/likhonai)
+3. **GitHub Profile**:  
+   - Repository owner: **likhonsdev** (no explicit avatar in the knowledge base).  
 
 ---
 
-## Features
+### ✅ **Recommendation**  
+- Use the **website avatar** from [likhon.org](https://likhon.org) for branding consistency.  
+- For personal identification (e.g., community engagement), reference **Lillian Ngcobo’s Telegram profile** ([@likhonai](https://t.me/likhonai)).  
 
-- **AI-Powered Code Generation** – Smart contract scaffolding, audit suggestions, and boilerplate optimization using LLMs.
-- **Decentralized Architecture Toolkit** – Templates, patterns, and helpers for full-stack dApps (React + Solidity + Node/Sails + IPFS).
-- **Security First** – Embedded threat modeling, audit heuristics, and OWASP-aware suggestions.
-- **Modular & Extensible** – Plug in your own AI workflows, contract standards, and chain integrations.
-- **Web3 DevOps** – Includes deploy-ready boilerplates, IPFS integration, and multichain deployment patterns.
+Let me know if you’d like help generating a placeholder or integrating this into documentation! 🎨  
 
 ---
+
+## 🔍 **Overview**  
+**LikhonAI** merges AI with decentralized infrastructure to streamline Web3 development. Key benefits include:  
+- **Scalability**: Build dApps that grow with demand.  
+- **Security**: Audit-ready smart contracts and threat modeling.  
+- **Extensibility**: Customize AI workflows and chain integrations.  
+
+Whether you're designing NFT marketplaces, DeFi protocols, or cross-chain tools, LikhonAI ensures faster deployment and robust security.  
+
+---
+
+## 🌐 **Live Demo & Website**  
+- **Official Site**: [likhon.org](https://likhon.org)  
+- **Community**: [Telegram @likhonai](https://t.me/likhonai)  
+
+---
+
+## 🛠️ **Features**  
+| Feature                | Description |  
+|------------------------|-------------|  
+| **AI Code Generation** | Smart contract scaffolding, audit suggestions, and optimized boilerplate via LLMs. |  
+| **Full-Stack Toolkit** | React, Solidity, Node.js, IPFS templates for dApp development. |  
+| **Security-First Design** | OWASP-compliant practices, threat modeling, and audit heuristics. |  
+| **Modular Architecture** | Plug-and-play AI modules, contract standards, and chain integrations. |  
+| **Web3 DevOps**        | Deploy-ready boilerplates, IPFS support, and multichain deployment patterns. |  
+
+---  
